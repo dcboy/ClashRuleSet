@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,tether.to
 DOMAIN-SUFFIX,dydx.exchange
-DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,arbitrum.io
@@ -499,7 +498,6 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,poolin.com
 DOMAIN-SUFFIX,raydium.io
-DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,stateofthedapps.com
 DOMAIN-SUFFIX,sunswap.com
 DOMAIN-SUFFIX,sushi.com
