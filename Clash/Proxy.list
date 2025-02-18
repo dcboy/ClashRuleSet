@@ -8,6 +8,7 @@
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # TOTAL: 6185
+DOMAIN-SUFFIX,stripe.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
