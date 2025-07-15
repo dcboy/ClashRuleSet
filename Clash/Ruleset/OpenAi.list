@@ -638,3 +638,5 @@ IP-CIDR,209.85.233.188/32,no-resolve
 
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
+
+DOMAIN-SUFFIX,gemini.com
